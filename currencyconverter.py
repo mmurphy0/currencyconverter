@@ -3,11 +3,11 @@ import tkinter as tk
 from tkinter import messagebox
 from tkinter import Toplevel
 
-euro =  1.14
-US_dollars = 1.317
-AU_dollars = 2.03
-Swiss_Franc = 1.06
-Japanese_Yen = 204.86
+euro = 1.14
+US_dollars = 1.33
+AU_dollars = 2.0
+Swiss_Franc = 1.07
+Japanese_Yen = 208.72
 
 currencies = ['Euro', 'US Dollar', 'United States Dollar', 'AU Dollar', 'Australian Dollar', 'Swiss Franc', 'Japanese Yen']
 
